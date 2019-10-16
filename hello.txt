@@ -1,1 +1,4 @@
-edit van nand
+<<<<<<< HEAD
+edit door Nand
+and edit door Jelle
+>>>>>>> changed hello.txt in demodevine
